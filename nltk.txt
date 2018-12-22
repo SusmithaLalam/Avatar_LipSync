@@ -1,0 +1,8 @@
+cmudict
+abc
+brown
+genesis
+wordnet
+pros_cons
+reuters
+punkt
